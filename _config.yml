@@ -1,0 +1,24 @@
+title: "Doug Skinner"
+email: "me@doug-skinner.com"
+description: "The homepage of Doug Skinner"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://doug-skinner.com"
+google_analytics: "UA-97386400-1"
+show_excerpts: true
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - pages/top-of-mind.md
+  - pages/about.md
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

@@ -1,6 +1,6 @@
 ---
 title: Introductions
-layout: page
+layout: post
 ---
 
 Welcome to my personal website. You might be wondering who I am, so brief introduction seems to be in order. I am Doug Skinner, currently employed as a Software Engineer. While that is my day job, I am much more interested in learning about leadership, philosophy, and the world in that order.

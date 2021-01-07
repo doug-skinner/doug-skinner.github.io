@@ -8,7 +8,13 @@ Our sitting president, his political party, and the media that surrounds them ha
 
 With the two sides of the country not even being able to agree on the basic facts, it is no great suprise that this eventually grew into this violent event that occured today. Four people are dead. The offices of many Senators have been looted and destroyed. We should be very glad that this group of domestic terrorists wasn't more organized, as what was an unruly mob attack of destruction could have easily turned into a bloodbath. This is something that we can not let escalate. Somehow though, even with this level of carnage and destruction, there are still [147 members of the president's party](https://www.nytimes.com/interactive/2021/01/07/us/elections/electoral-college-biden-objectors.html) that are continuing this false narrative.
 
-Where do we go from here? I have no idea.
+Where do we go from here? I have no idea, however I do think a good first step would be removing all those from power that instigated this idea. We cannot allow actions like this to go without consequences in this country. I also know that while it is great to think globally when it comes to sweeping changes that need to be done, the real change occurs when you act locally. That is something that I, and everyone should be thinking about right now, how we can help our communities around us to help prevent anything like this from ever happening again.
+
+I'm also going to include some images taken from the [NYTimes](https://www.nytimes.com/2021/01/07/briefing/white-house-capitol-donald-trump-jon-ossoff.html) below, just as a permanent reminder how horrible today was.
+
+---
+
+All images come from [The NYTimes](https://www.nytimes.com/2021/01/07/briefing/white-house-capitol-donald-trump-jon-ossoff.html) and I claim no copyright nor ownership.
 
 ![Supporters of President Trump stormed the Capitol yesterday.Credit...Win Mcnamee/Getty Images](/assets/the-state-of-the-us/07AMBRIEFING-slide-UUFY-superJumbo.jpg)
 Supporters of President Trump stormed the Capitol yesterday.Credit...Win Mcnamee/Getty Images

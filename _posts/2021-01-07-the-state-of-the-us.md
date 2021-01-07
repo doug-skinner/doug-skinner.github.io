@@ -17,4 +17,5 @@ I'm also going to include some images taken from the [NYTimes](https://www.nytim
 All images come from [The NYTimes](https://www.nytimes.com/2021/01/07/briefing/white-house-capitol-donald-trump-jon-ossoff.html) and I claim no copyright nor ownership.
 
 ![Supporters of President Trump stormed the Capitol yesterday.Credit...Win Mcnamee/Getty Images](/assets/the-state-of-the-us/07AMBRIEFING-slide-UUFY-superJumbo.jpg)
-Supporters of President Trump stormed the Capitol yesterday.Credit...Win Mcnamee/Getty Images
+Supporters of President Trump stormed the Capitol yesterday.
+

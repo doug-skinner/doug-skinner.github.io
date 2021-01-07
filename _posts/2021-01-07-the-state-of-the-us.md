@@ -30,3 +30,12 @@ President Trump spoke to his supporters, directing them toward the Capitol.
 
 ![Police officers in riot gear after security was breached at the Capitol.](/assets/the-state-of-the-us/07AMBRIEFING-slide-IEE3-superJumbo-v2.jpg)
 Police officers in riot gear after security was breached at the Capitol.
+
+![Members of Congress ran for cover as pro-Trump extemists tried to break into the House chamber..](/assets/the-state-of-the-us/07AMBRIEFING-slide-47EQ-superJumbo-v2.jpg)
+Members of Congress ran for cover as pro-Trump extemists tried to break into the House chamber..
+
+![A crowd gathered on the west front of the Capitol.](/assets/the-state-of-the-us/07AMBRIEFING-slide-VVOO-superJumbo-v2.jpg)
+A crowd gathered on the west front of the Capitol.
+
+![Senator Josh Hawley gestured to Trump supporters outside the Capitol.](/assets/the-state-of-the-us/07AMBRIEFING-violence-superJumbo.jpg)
+Senator Josh Hawley gestured to Trump supporters outside the Capitol.

@@ -19,3 +19,5 @@ All images come from [The NYTimes](https://www.nytimes.com/2021/01/07/briefing/w
 ![Supporters of President Trump stormed the Capitol yesterday.Credit...Win Mcnamee/Getty Images](/assets/the-state-of-the-us/07AMBRIEFING-slide-UUFY-superJumbo.jpg)
 Supporters of President Trump stormed the Capitol yesterday.
 
+![Trump loyalists and the police clashed outside the Capitol.](/assets/the-state-of-the-us/07AMBRIEFING-slide-54R1-superJumbo.jpg)
+Trump loyalists and the police clashed outside the Capitol.

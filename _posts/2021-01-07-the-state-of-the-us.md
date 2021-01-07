@@ -21,3 +21,6 @@ Supporters of President Trump stormed the Capitol yesterday.
 
 ![Trump loyalists and the police clashed outside the Capitol.](/assets/the-state-of-the-us/07AMBRIEFING-slide-54R1-superJumbo.jpg)
 Trump loyalists and the police clashed outside the Capitol.
+
+![Capitol Police trying to prevent pro-Trump extremists from entering the House chamber.](/assets/the-state-of-the-us/07AMBRIEFING-slide-A5HB-superJumbo.jpg)
+Capitol Police trying to prevent pro-Trump extremists from entering the House chamber.

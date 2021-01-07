@@ -10,3 +10,12 @@ This morning, while trying to run [Jeyll](https://jekyllrb.com/), the software t
 An error occurred while installing ffi (1.13.1), and Bundler cannot continue.
 Make sure that `gem install ffi -v '1.13.1' --source 'https://rubygems.org/'` succeeds before bundling.
 ```
+
+This was solved using the instructions originally found [here](https://github.com/ffi/ffi/issues/651#issuecomment-434927135):
+
+```bash
+brew reinstall libffi;
+export LDFLAGS="-L/usr/local/opt/libffi/lib" && \
+export PKG_CONFIG_PATH="/usr/local/opt/libffi/lib/pkgconfig" && \
+bundle install
+```

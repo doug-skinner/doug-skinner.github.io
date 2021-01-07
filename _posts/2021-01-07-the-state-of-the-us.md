@@ -25,8 +25,8 @@ Trump loyalists and the police clashed outside the Capitol.
 ![Capitol Police trying to prevent pro-Trump extremists from entering the House chamber.](/assets/the-state-of-the-us/07AMBRIEFING-slide-A5HB-superJumbo.jpg)
 Capitol Police trying to prevent pro-Trump extremists from entering the House chamber.
 
-![President Trump spoke to his supporters, directing them toward the Capitol.](/assets/the-state-of-the-us/07AMBRIEFING-slide-9D53-superJumbo.jpg)
+![President Trump spoke to his supporters, directing them toward the Capitol.](/assets/the-state-of-the-us/07AMBRIEFING-slide-9D53-superJumbo-v2.jpg)
 President Trump spoke to his supporters, directing them toward the Capitol.
 
-![Police officers in riot gear after security was breached at the Capitol.](/assets/the-state-of-the-us/07AMBRIEFING-slide-IEE3-superJumbo.jpg)
+![Police officers in riot gear after security was breached at the Capitol.](/assets/the-state-of-the-us/07AMBRIEFING-slide-IEE3-superJumbo-v2.jpg)
 Police officers in riot gear after security was breached at the Capitol.

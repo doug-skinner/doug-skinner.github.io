@@ -13,6 +13,7 @@ plugins:
 
 header_pages:
   - pages/top-of-mind.md
+  - pages/quotes.md
   - pages/about.md
 
 defaults:

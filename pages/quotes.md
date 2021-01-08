@@ -18,6 +18,12 @@ By: Ralph Waldo Emerson
 
 > In my walks, every man I meet is my superior in some way, and in that I learn from him.
 
+### Need for Concentration
+
+By: Theodore Roosevelt
+
+> I am delighted at all the accounts I receive of how you are doing at Groton. You seem to be enjoying yourself and are getting on well. I need not tell you to do your best to cultivate ability for concentrating your thought on whatever work you are given to do—you will need it in Latin especially.
+
 ### Serenity Prayer
 
 By: Reinhold Niebuhr

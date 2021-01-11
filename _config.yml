@@ -12,8 +12,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - pages/top-of-mind.md
   - pages/quotes.md
+  - pages/blog.md
   - pages/about.md
 
 defaults:

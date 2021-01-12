@@ -1,5 +1,7 @@
 ---
-title: Tips on Meetings
+title: Effective Meetings
+permalink: '/effective-meetings/'
+layout: page
 ---
 
 A few tips on meetings to end the work week:

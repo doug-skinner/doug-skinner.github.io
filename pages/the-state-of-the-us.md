@@ -1,5 +1,7 @@
 ---
 title: The State of the United States
+permalink: '/the-state-of-the-us/'
+layout: page
 ---
 
 The history books will not look back fondly at the events that transpired yesterday at the Capital of the United States. The violence that occured will always be remembered as the culmination of the years of division that have been sown into the very fabric of this country by our current sitting president and his followers. While the attack on the Capital may be shocking to watch, we can't pretend that we didn't see this coming.

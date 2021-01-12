@@ -13,6 +13,7 @@ In this vein, we will be able to see the progression of my thoughts as time move
 
 These are the topics that I am currently thinking about or researching. These topics can have pretty broad time horizons, but also may not be updated all that frequently.
 
+- Figuring out what I can do about the [current state of the United States](/the-state-of-the-us/) after this weeks insurrection attempt.
 - Developing a more robust thinking environment.
 - Continue down my list of books to read.
 - Continue adding to [my digital commonplace book](/quotes/)

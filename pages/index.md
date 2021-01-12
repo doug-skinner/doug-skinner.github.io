@@ -18,6 +18,6 @@ These are the topics that I am currently thinking about or researching. These to
 - Continue down my list of books to read.
 - Continue adding to [my digital commonplace book](/quotes/)
 - Continue my line of thinking on leadership.
-    - For instance, how to have [effective meetings](/effective-meetings/)
+  - For instance, how to have [effective meetings](/effective-meetings/)
 - Gaining a beginners understanding of philosophy.
 - Create an actionable plan for getting better at hiking.

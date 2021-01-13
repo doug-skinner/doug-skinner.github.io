@@ -22,6 +22,7 @@ These are the topics that I am currently thinking about or researching. These to
   - For instance, how to have [effective meetings](/effective-meetings/)
 - Gaining a beginners understanding of philosophy.
 - Create an actionable plan for getting better at hiking.
+- Continued work on my personal [programming projects](/programming-projects/)
 
 Open questions I might try to answer in the future:
 

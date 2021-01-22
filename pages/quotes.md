@@ -8,17 +8,51 @@ This page serves as a space for me to keep track of interesting quotes or passag
 
 ---
 
+## Abraham Lincoln
+
+> Judge not, that ye not be judged.
+
+> Don't criticize them; they are just what we would be under different circumstances.
+
+## Benjamin Franklin
+
+> I will speack ill of no man, and speak all the good I know of everybody.
+
+## Bill Gates
+
+> Incremental knowledge is so much easier to maintain in a rich way. At first, it is very daunting, but then as you build the scope, then all the pieces fit in.
+
+## Carlyle
+
+> A great man shows his greatness by the way he treats little men.
+
+## George Polya
+
+> The first rule of style is to have something to say. The second rule of stule is to control yourself when, by chance, you have two things to say; say first one, then the other, not both at the same time.
+
+## Hans Selye
+
+> As much as we thirst for approval, we dread condemnation.
+
+## John Wanamaker
+
+> I learned thirty years ago that it is foolish to scold. I have enough trouble overcoming my own limitations without fretting over the fact that God has not seen fit to distribute evenly the gift of intelligence.
+
 ## Joe Biden
 
 > Lies told for power and for profit
+
+## Leo Tolstoy
+
+> I cannot understand how some people can live wiuthout communicating with the wisest people who have ever lived on earth.
 
 ## Ralph Waldo Emerson
 
 > In my walks, every man I meet is my superior in some way, and in that I learn from him.
 
-## Theodore Roosevelt
+## Ratna Kusner
 
-> I am delighted at all the accounts I receive of how you are doing at Groton. You seem to be enjoying yourself and are getting on well. I need not tell you to do your best to cultivate ability for concentrating your thought on whatever work you are given to do—you will need it in Latin especially.
+> Knowledge trapped in books neatly stacked is meaningless and powerless until applied for betterment of life.
 
 ## Reinhold Niebuhr
 
@@ -26,21 +60,29 @@ This page serves as a space for me to keep track of interesting quotes or passag
 > Courage to change the things I can,
 > and wisdoms to know the difference.
 
-## George Polya
+## Simon Armitage
 
-> The first rule of style is to have something to say. The second rule of stule is to control yourself when, by chance, you have two things to say; say first one, then the other, not both at the same time.
+> Let me put it this way:
+> if you came to lay
+>
+> your sleeping head
+> against my arm or sleeve,
+>
+> and if my arm went dead,
+> or if I had to take my leave
+>
+> at midnight, I should rather
+> cleave it from the joint or seam
+>
+> than make a scene
+> or bring you round.
+>
+> There,
+> how does that sound?
 
-## Bill Gates
+## Theodore Roosevelt
 
-> Incremental knowledge is so much easier to maintain in a rich way. At first, it is very daunting, but then as you build the scope, then all the pieces fit in.
-
-## Leo Tolstoy
-
-> I cannot understand how some people can live wiuthout communicating with the wisest people who have ever lived on earth.
-
-## Ratna Kusner
-
-> Knowledge trapped in books neatly stacked is meaningless and powerless until applied for betterment of life.
+> I am delighted at all the accounts I receive of how you are doing at Groton. You seem to be enjoying yourself and are getting on well. I need not tell you to do your best to cultivate ability for concentrating your thought on whatever work you are given to do—you will need it in Latin especially.
 
 ## Wilfred Arlan Peterson
 
@@ -71,23 +113,3 @@ This page serves as a space for me to keep track of interesting quotes or passag
 > It is not only marrying the right person,
 >
 > It is being the right partner
-
-## Simon Armitage
-
-> Let me put it this way:
-> if you came to lay
->
-> your sleeping head
-> against my arm or sleeve,
->
-> and if my arm went dead,
-> or if I had to take my leave
->
-> at midnight, I should rather
-> cleave it from the joint or seam
->
-> than make a scene
-> or bring you round.
->
-> There,
-> how does that sound?

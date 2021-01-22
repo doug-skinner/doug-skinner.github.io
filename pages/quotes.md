@@ -22,6 +22,10 @@ This page serves as a space for me to keep track of interesting quotes or passag
 
 > Incremental knowledge is so much easier to maintain in a rich way. At first, it is very daunting, but then as you build the scope, then all the pieces fit in.
 
+## Billy Collins
+
+> The pen is an instrument of discovery rather than just a recording implement.
+
 ## Carlyle
 
 > A great man shows his greatness by the way he treats little men.

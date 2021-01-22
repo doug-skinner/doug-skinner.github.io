@@ -6,65 +6,43 @@ permalink: "/quotes/"
 
 This page serves as a space for me to keep track of interesting quotes or passages that I have found. It will serve almost as my own digital Commonplace book.
 
-They will be loosely categorized.
-
 ---
 
-## Life Advice
+## Joe Biden
 
-### Learning from others
+> Lies told for power and for profit
 
-By: Ralph Waldo Emerson
+## Ralph Waldo Emerson
 
 > In my walks, every man I meet is my superior in some way, and in that I learn from him.
 
-### Need for Concentration
-
-By: Theodore Roosevelt
+## Theodore Roosevelt
 
 > I am delighted at all the accounts I receive of how you are doing at Groton. You seem to be enjoying yourself and are getting on well. I need not tell you to do your best to cultivate ability for concentrating your thought on whatever work you are given to do—you will need it in Latin especially.
 
-### Serenity Prayer
-
-By: Reinhold Niebuhr
+## Reinhold Niebuhr
 
 > Go grant me the serenity to accept the things I cannot change,
 > Courage to change the things I can,
 > and wisdoms to know the difference.
 
-## Writing
-
-### Rules of style
-
-By: George Polya
+## George Polya
 
 > The first rule of style is to have something to say. The second rule of stule is to control yourself when, by chance, you have two things to say; say first one, then the other, not both at the same time.
 
-## Knowledge work
-
-### Incremental Knowledge
-
-By: Bill Gates
+## Bill Gates
 
 > Incremental knowledge is so much easier to maintain in a rich way. At first, it is very daunting, but then as you build the scope, then all the pieces fit in.
 
-### Missed oppurtunity
-
-By: Leo Tolstoy
+## Leo Tolstoy
 
 > I cannot understand how some people can live wiuthout communicating with the wisest people who have ever lived on earth.
 
-### Trapped knowledge
-
-By: Ratna Kusner
+## Ratna Kusner
 
 > Knowledge trapped in books neatly stacked is meaningless and powerless until applied for betterment of life.
 
-## Love
-
-### The Art of Marriage
-
-By: Wilfred Arlan Peterson
+## Wilfred Arlan Peterson
 
 > A good marriage must be created.
 >
@@ -94,9 +72,7 @@ By: Wilfred Arlan Peterson
 >
 > It is being the right partner
 
-### Let me put it this way
-
-By: Simon Armitage
+## Simon Armitage
 
 > Let me put it this way:
 > if you came to lay

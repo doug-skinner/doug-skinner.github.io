@@ -13,7 +13,6 @@ plugins:
 
 header_pages:
   - pages/quotes.md
-  - pages/blog.md
   - pages/about.md
 
 defaults:

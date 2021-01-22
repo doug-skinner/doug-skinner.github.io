@@ -1,6 +1,6 @@
 ---
 title: Digital Minimalism
-permalink: '/digital-minimalism/
+permalink: '/digital-minimalism/'
 layout: page
 ---
 

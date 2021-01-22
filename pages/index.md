@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 permalink: "/"
 ---
 
@@ -10,21 +10,3 @@ The current goal of this website will be for a place for me to maintain this wil
 These letters can be considered the culmination of the thoughts that I have day to day. With that in mind, I think it fair to say that none of these letters are ever really final. In the case of minor updates for spelling or grammar, I will most likely silently update the letter. If however, I want to expand further on a topic or if my opinion has shifted and I now want to disagree with my self, I will do that in a secondary letter linked from the first.
 
 In this vein, we will be able to see the progression of my thoughts as time moves on. I look forward to seeing how this goes.
-
-These are the topics that I am currently thinking about or researching. These topics can have pretty broad time horizons, but also may not be updated all that frequently.
-
-- Figuring out what I can do about the [current state of the United States](/the-state-of-the-us/) after this weeks insurrection attempt.
-- Thinking about [digital minimalism](/digital-minimalism/)
-- Developing a more robust thinking environment.
-- Continue down my list of books to read.
-- Continue adding to [my digital commonplace book](/quotes/)
-- Continue my line of thinking on leadership.
-  - For instance, how to have [effective meetings](/effective-meetings/)
-- Gaining a beginners understanding of philosophy.
-- Create an actionable plan for getting better at hiking.
-- Continued work on my personal [programming projects](/programming-projects/)
-
-Open questions I might try to answer in the future:
-
-- Why is knowledge work so based on individual productivity?
-- How do we cultivate better focus?

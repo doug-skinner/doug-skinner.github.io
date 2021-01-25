@@ -1,6 +1,7 @@
 ---
 title: The State of the United States
 permalink: '/the-state-of-the-us/'
+date: 2021-01-06
 layout: page
 ---
 

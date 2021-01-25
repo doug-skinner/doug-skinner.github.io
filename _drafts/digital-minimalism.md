@@ -1,5 +1,5 @@
 ---
-title: Digital Minimalism
+title: Why Digital Minimalism?
 permalink: '/digital-minimalism/'
 layout: page
 ---

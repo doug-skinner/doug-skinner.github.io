@@ -1,0 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+body {
+    font-family: Open Sans, Arial;
+    color: #454545;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+a {
+    color: #0077AA;
+}

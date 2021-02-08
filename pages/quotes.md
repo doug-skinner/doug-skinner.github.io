@@ -54,6 +54,14 @@ This page serves as a space for me to keep track of interesting quotes or passag
 
 > I cannot understand how some people can live wiuthout communicating with the wisest people who have ever lived on earth.
 
+## Leonardo Da Vinci
+
+> Life is pretty simple: you do some stuff. Most fails. Some works. You do more of what works. If it works big, others quickly copy it.
+
+## Marcus Aurelies
+
+> Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+
 ## Ralph Waldo Emerson
 
 > In my walks, every man I meet is my superior in some way, and in that I learn from him.
@@ -67,6 +75,10 @@ This page serves as a space for me to keep track of interesting quotes or passag
 > Go grant me the serenity to accept the things I cannot change,
 > Courage to change the things I can,
 > and wisdoms to know the difference.
+
+## Richard Feynman
+
+> I learned very early on the difference between knowing the name of something and knowing something.
 
 ## Simon Armitage
 
@@ -87,6 +99,10 @@ This page serves as a space for me to keep track of interesting quotes or passag
 >
 > There,
 > how does that sound?
+
+## Steven Covey
+
+> How do you know that your ladder is against the right wall?
 
 ## Theodore Roosevelt
 

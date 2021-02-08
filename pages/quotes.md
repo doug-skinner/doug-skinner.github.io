@@ -30,6 +30,10 @@ This page serves as a space for me to keep track of interesting quotes or passag
 
 > A great man shows his greatness by the way he treats little men.
 
+## Dwight Eisenhower
+
+> Plans are worthless, but planning is everything.
+
 ## George Polya
 
 > The first rule of style is to have something to say. The second rule of stule is to control yourself when, by chance, you have two things to say; say first one, then the other, not both at the same time.
@@ -44,7 +48,7 @@ This page serves as a space for me to keep track of interesting quotes or passag
 
 ## Joe Biden
 
-> Lies told for power and for profit
+> There is truth, and then there are lies - lies told for power and for profit.
 
 ## Leo Tolstoy
 

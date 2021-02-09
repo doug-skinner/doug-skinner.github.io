@@ -26,6 +26,10 @@ This page serves as a space for me to keep track of interesting quotes or passag
 
 > The pen is an instrument of discovery rather than just a recording implement.
 
+## Brian Kernighan
+
+> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+
 ## Carlyle
 
 > A great man shows his greatness by the way he treats little men.

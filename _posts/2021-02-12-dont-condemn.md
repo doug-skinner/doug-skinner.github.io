@@ -1,8 +1,7 @@
 ---
 title: Don't criticize, condemn, or complain
 layout: post
-date: 2021-02-09
-permalink: /dont-condemn/
+date: 2021-02-12
 ---
 
 A perfect example of human nature in action is that of a wrongdoer blaming everyone but themselves. _We are all like that_. Realize that criticisms are like homing pigeons, always returning home. The person that is being condemned will be unlikely to learn from it, but will be likely to condemn us in return.

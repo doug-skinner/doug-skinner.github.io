@@ -19,8 +19,10 @@ Naming our experiences, or being able to accurately describe them, helps keep us
 
 When describing these experiences, word choice matters more than you might think as well. Scientists were also able to find concrete links between the word choice in someone describing an event and how well they actually remembered the event later on. This is why finding the right word to describe something is so important.
 
+
 > The difference between the almost right word and the right word is... the difference between a lightning bug and lightning.
 > Mark Twain
+
 
 ---
 

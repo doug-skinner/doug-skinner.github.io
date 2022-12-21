@@ -2,7 +2,7 @@
 title: Doug's Website
 email: doug@dsknr.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My website where I will write down things that I want to or care about. A place for me to develop my ideas
+  A place for me to develop my ideas and serve as my home base on the web.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: _doug_skinner

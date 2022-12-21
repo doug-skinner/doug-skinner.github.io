@@ -8,6 +8,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: _doug_skinner
 github_username:  doug-skinner
 
+show_excerpts: true # set to false to remove excerpts on the homepage
+
 # Build settings
 theme: minima
 plugins:

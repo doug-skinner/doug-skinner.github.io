@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Books
-permalink: /books/
+title: Reading
+permalink: /hobbies/reading/
 ---
 
 My collection of all the books I've read, otherwise I'd forget.

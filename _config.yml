@@ -14,3 +14,8 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - about.md
+  - hobbies/index.md
+  - weblog.md

@@ -10,4 +10,4 @@ A place for me to store interesting quotes for later reference.
 
 > And now that you don't have to be perfect, you can be good.
 >
-> - John Steinbeck, East of Eden
+> John Steinbeck, East of Eden

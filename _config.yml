@@ -15,4 +15,5 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - quotes.md
   - weblog.md

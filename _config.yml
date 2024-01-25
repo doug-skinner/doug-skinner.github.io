@@ -14,6 +14,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:name
+
 header_pages:
   - quotes.md
   - weblog.md

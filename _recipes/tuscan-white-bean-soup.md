@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tuscan White Bean Soup
+name: Tuscan White Bean Soup
 ---
 
 Sourced from [here](https://eatwithclarity.com/white-bean-soup/)

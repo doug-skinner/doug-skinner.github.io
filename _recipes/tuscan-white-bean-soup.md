@@ -3,7 +3,7 @@ layout: page
 name: Tuscan White Bean Soup
 ---
 
-Sourced from [here](https://eatwithclarity.com/white-bean-soup/)
+Sourced from [here](https://eatwithclarity.com/white-bean-soup/).
 
 ## Ingredients
 

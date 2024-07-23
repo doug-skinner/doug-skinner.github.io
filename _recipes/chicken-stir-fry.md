@@ -5,7 +5,7 @@ name: Chicken Stir Fry
 
 Sourced from [here](https://www.momontimeout.com/easy-chicken-stir-fry-recipe/).
 
-Ingredients
+## Ingredients
 
 - 1 lb boneless, skinless chicken breast cut into 1 inch cubes
 - salt and pepper to taste
@@ -27,7 +27,7 @@ Stir Fry Sauce
 - 1 tbsp toasted sesame oil
 - 1/2 tsp crushed red pepper flakes
 
-Instructions
+## Instructions
 
 1. In a medium size bowl, whisk together corn starch and water. Add remaining ingredients (chicken broth, soy sauce, honey, and toasted sesame oil, red pepper flakes) and whisk to combine. Set aside.
 2. Add one tablespoon of olive oil to a large skillet or wok and heat over medium high heat.

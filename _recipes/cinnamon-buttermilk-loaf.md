@@ -3,7 +3,7 @@ layout: page
 name: Cinnamon Buttermilk Loaf
 ---
 
-Source from [here](https://thegardeningfoodie.com/cinnamon-buttermilk-loaf/).
+Sourced from [here](https://thegardeningfoodie.com/cinnamon-buttermilk-loaf/).
 
 ## Ingredients
 
@@ -24,7 +24,7 @@ Source from [here](https://thegardeningfoodie.com/cinnamon-buttermilk-loaf/).
 ## Instructions
 
 1. In a bowl mix together sugar and cinnamon and set aside.
-1. Grease and line a  22 x 13 cm / 9 x 5″ loaf pan with parchment / baking paper.
+1. Grease and line a 22 x 13 cm / 9 x 5″ loaf pan with parchment / baking paper.
 1. Using a large bowl, cream together the sugar and butter until light and creamy. Add the egg and buttermilk and beat until well incorporated.
 1. Sift in the flour and bicarbonate of soda / baking soda and mix well.
 1. Spoon 1/2 of the batter into the prepared loaf tin and sprinkle 1/2 of the cinnamon sugar over the batter.

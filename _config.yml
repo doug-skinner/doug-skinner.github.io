@@ -18,6 +18,3 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:name
-
-header_pages:
-  - weblog.md

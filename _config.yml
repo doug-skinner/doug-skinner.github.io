@@ -20,5 +20,4 @@ collections:
     permalink: /:collection/:name
 
 header_pages:
-  - quotes.md
   - weblog.md

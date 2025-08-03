@@ -4,10 +4,4 @@ title: Home
 permalink: /
 ---
 
-Hello! My name is Doug Skinner, and welcome to my little slice of the internet. This website contains anything that catches my eye or that I want to store for future reference.
-
-For quick links to things I found interesting, check the [weblog](/weblog.html). I've also got a list of [recipes](/recipes/) that I like making.
-
-Recently updated pages include:
-
-- 2024-01-25 the new [recipes](/recipes/) page
+Welcome to my corner of the internet. I am a software engineering leader who also loves nature and spending time in nature with my wife and dog. I'll write about all of those things here, so hopefully you don't mind following along!
